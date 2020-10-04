@@ -27,8 +27,8 @@ At IEEE Computer Society VITC we believe in sharing our knowledge, holding the p
 <table align="center">
 <tr>
 <td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/python.gif'><br>Python Programming</td>
-<td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/webdev3.gif'><br><br><br><br>Web Development</td>
-<td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/machinelearning2.gif'><br><br>Machine Learning</td>
+<td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/webdev3.gif'><br>Web Development</td>
+<td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/machinelearning2.gif'><br>Machine Learning</td>
 </tr>
 <tr>
 <td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/iot2.gif'><br>IoT</td>
