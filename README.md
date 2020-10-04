@@ -36,7 +36,7 @@
 </table>
 <br>
 <br>
-<p align="center">Vist us at our Instagram and LinkedIn to know more about our engagements and upcoming initiatives</p>
+<p align="center">Visit us at our Instagram and LinkedIn to know more about our engagements and upcoming initiatives</p>
 <div align="center"><a href="https://www.instagram.com/comsoc.vitcc/"><image width="30" height="30" src="https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/insta.png"></a>&nbsp;<a href="https://in.linkedin.com/company/ieee-computer-society-vit-chennai"><image width="30" height="30" src="https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/linkedin-logo.png"></a>
 
 
