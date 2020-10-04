@@ -24,7 +24,7 @@ This society boasts of multiple engagements ranging from organising HackHub, the
 </table>
 <div align="center"><h2>Our Workshops</h2></div>
 At IEEE Computer Society VITC we believe in sharing our knowledge, holding the philosophy that enabling young minds with relevant tech know-how has a perfect positive correlation with our progress as a student chapter. With this as our driving force, we conduct numerous workshops to upskill our members.
-<table>
+<table align="center">
 <tr>
 <td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/python.gif'><br>Python Programming</td>
 <td><image width="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/webdev3.gif'><br><br><br><br>Web Development</td>
