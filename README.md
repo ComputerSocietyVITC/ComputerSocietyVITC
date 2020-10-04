@@ -1,7 +1,7 @@
 ![IEEE](https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/IEEECSBanner4.png)
 ***
 The IEEE Computer Society VITC grew from a small group of students who wanted to make a difference to the largest student chapter in VIT Chennai!
-<br><br>
+<br>
 This society boasts of multiple engagements ranging from organising HackHub, the largest hack-a-thon of VIT Chennai, to taking up numerous corporate funded projects driven to make a lasting impact in the tech industry.
 <br><br>
 <div align="center"><h2>Our Projects</h2></div>
@@ -32,7 +32,7 @@ At IEEE Computer Society VITC we believe in sharing our knowledge, holding the p
 </tr>
 <tr>
 <td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/iot2.gif'><br>IoT</td>
-<td><image width="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/robotics2.gif'><br><br>Robotics</td>
+<td><image width="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/robotics2.gif'><br>Robotics</td>
 <td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/blockchain.gif'><br>Blockchain</td>
 </tr>
 </table>
