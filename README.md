@@ -36,7 +36,7 @@ At IEEE Computer Society VITC we believe in sharing our knowledge, holding the p
 </table>
 <br>
 <br>
-<div align="center"><a href="https://www.instagram.com/comsoc.vitcc/"><image width="20" height="20" src="https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/insta.jpg"></a>&nbsp;<a href="https://in.linkedin.com/company/ieee-computer-society-vit-chennai"><image width="20" height="20" src="https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/linkedin-logo.png"></a>
+<div align="center"><a href="https://www.instagram.com/comsoc.vitcc/"><image width="70" height="70" src="https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/insta.jpg"></a>&nbsp;<a href="https://in.linkedin.com/company/ieee-computer-society-vit-chennai"><image width="70" height="70" src="https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/linkedin-logo.png"></a>
 
 
 
