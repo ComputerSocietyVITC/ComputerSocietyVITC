@@ -32,7 +32,7 @@ At IEEE Computer Society VITC we believe in sharing our knowledge, holding the p
 </tr>
 <tr>
 <td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/iot2.gif'><br>IoT</td>
-<td><image width="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/robotics.gif'><br><br>Robotics</td>
+<td><image width="233" src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F803751864725776047%2F&psig=AOvVaw3Dl1LjKCPzJ4DOLHdCLbYJ&ust=1601930204316000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjuzJnlm-wCFQAAAAAdAAAAABAJ'><br><br>Robotics</td>
 <td><image width="233" height="233" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/blockchain.gif'><br>Blockchain</td>
 </tr>
 </table>
