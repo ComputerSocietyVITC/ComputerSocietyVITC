@@ -12,13 +12,13 @@ This society boasts of multiple engagements ranging from organising HackHub, the
 </tr>
 
 <tr>
-<td style="text-align:center;"><img width="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/braintech.gif'><br><p align="center">Brain Computer Interface</p></td>
-<td style="text-align:center;"><img width="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/Weather3.gif'><br><p align="center">Weather Application</p></td>
+<td style="text-align:center;"><img width="350" height="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/braintech.gif'><br><p align="center">Brain Computer Interface</p></td>
+<td style="text-align:center;"><img width="350" height="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/Weather3.gif'><br><p align="center">Weather Application</p></td>
 </tr>
 
 <tr>
-<td style="text-align:center;"><img width="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/bonetech.gif'><br><p align="center">Bone Conduction</p></td>
-<td style="text-align:center;"><img width="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/LiveInArcade3.gif'><br><p align="center">Live In Arcade</p></td>
+<td style="text-align:center;"><img width="350" height="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/bonetech.gif'><br><p align="center">Bone Conduction</p></td>
+<td style="text-align:center;"><img width="350" height="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/LiveInArcade3.gif'><br><p align="center">Live In Arcade</p></td>
 </tr>
 
 </table>
