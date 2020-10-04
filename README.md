@@ -12,7 +12,7 @@ This society boasts of multiple engagements ranging from organising HackHub, the
 </tr>
 
 <tr>
-<td style="text-align:center;"><img width="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/braintech.gif'><br>Brain Computer Interface</td>
+<td style="text-align:center;"><img width="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/braintech.gif'><br><p align="center">Brain Computer Interface</p></td>
 <td style="text-align:center;"><img width="350" src='https://github.com/ComputerSocietyVITC/ComputerSocietyVITC/blob/main/static/Weather3.gif'><br>Weather Application</td>
 </tr>
 
