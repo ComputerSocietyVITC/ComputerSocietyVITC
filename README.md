@@ -5,7 +5,6 @@ The IEEE Computer Society VITC grew from a small group of students who wanted to
 This society boasts of multiple engagements ranging from organising HackHub, the largest hack-a-thon of VIT Chennai, to taking up numerous corporate funded projects driven to make a lasting impact in the tech industry.
 <br><br>
 <div style="text-align:center;"><h2>Our Projects</h2></div>
-***
 <table>
 <tr>
 <th>Corporate Funded</th>
